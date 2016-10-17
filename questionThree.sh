@@ -1,4 +1,7 @@
 #Question 3
+#Josh Burak, 10169785
+#Dhanish Chinniah, 10170731
+#Kat Pinto (Zwach), 10168919
 
  echo Welcome to the CISC 220 Racing Arena
  echo User 1 press 1 to move foreward, User 2 press 2, and User 3 press 3 
