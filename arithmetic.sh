@@ -1,5 +1,5 @@
 #Josh Burak - 10169785
-#Kat Pinto -
+#Kat Pinto - 10168919
 #Dhanish Chinniah - 10170731
 
 while [ true ]; do
